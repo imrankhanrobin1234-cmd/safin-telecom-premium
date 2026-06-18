@@ -1,1 +1,1 @@
-Add your logo as safin-logo.jpg and shop image as shop.jpg in the repository root.
+
